@@ -2,7 +2,7 @@
 <a href="https://discord.gg/HqnYC2Rafc"><img src="https://img.shields.io/badge/discord%20server-blue?logo=discord&logoColor=white&style=for-the-badge"></a>
 ### Hi there 👋
 
-- 🔭 I’m currently working on something
+- 🔭 I’m currently working on a Discord bot
 - 📫 How to reach me: Discord @nikolan
 - 😄 Pronouns: he/him, they/them
 
