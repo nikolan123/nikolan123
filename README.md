@@ -1,7 +1,8 @@
-### Hi there 👋
 <a href="https://discord.com/users/767780952436244491"><img src="https://img.shields.io/badge/discord-blue?logo=discord&logoColor=white&style=for-the-badge"></a>
 <a href="https://discord.gg/HqnYC2Rafc"><img src="https://img.shields.io/badge/discord%20server-blue?logo=discord&logoColor=white&style=for-the-badge"></a>
-- 🔭 I’m currently working on stuff
+### Hi there 👋
+
+- 🔭 I’m currently working on something
 - 📫 How to reach me: Discord @nikolan
 - 😄 Pronouns: he/him, they/them
 
