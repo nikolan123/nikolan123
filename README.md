@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://discord.com/users/767780952436244491"><img src="https://img.shields.io/badge/discord-blue?logo=discord&logoColor=white&style=for-the-badge"></a>
 
 - 🔭 I’m currently working on stuff
 - 📫 How to reach me: Discord @nikolan
