@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Discord bot
+- 🔭 I’m currently working on idk
 - 📫 How to reach me: Discord @nikolan
 - 😄 Pronouns: he/him, they/them
 
