@@ -6,20 +6,20 @@ I am Niko
 #### You can play minesweeper by clicking the mines below:
 
 [//]: # (GAME START)
-- Status: Game in progress.
-- Moves: 9
+- Status: Mine exploded :(
+- Moves: 10
 - Reset: [New Game](https://minesweeperreadme.nikolan.net/reset)
 
 | | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |---|---|---|---|---|---|---|---|---|
-|A|🟦|1|1|1|2|[⬜](https://minesweeperreadme.nikolan.net/move?x=5&y=0)|2|[⬜](https://minesweeperreadme.nikolan.net/move?x=7&y=0)|
-|B|🟦|1|[⬜](https://minesweeperreadme.nikolan.net/move?x=2&y=1)|1|2|[⬜](https://minesweeperreadme.nikolan.net/move?x=5&y=1)|[⬜](https://minesweeperreadme.nikolan.net/move?x=6&y=1)|[⬜](https://minesweeperreadme.nikolan.net/move?x=7&y=1)|
-|C|🟦|1|1|2|2|[⬜](https://minesweeperreadme.nikolan.net/move?x=5&y=2)|[⬜](https://minesweeperreadme.nikolan.net/move?x=6&y=2)|[⬜](https://minesweeperreadme.nikolan.net/move?x=7&y=2)|
-|D|🟦|🟦|🟦|1|[⬜](https://minesweeperreadme.nikolan.net/move?x=4&y=3)|[⬜](https://minesweeperreadme.nikolan.net/move?x=5&y=3)|[⬜](https://minesweeperreadme.nikolan.net/move?x=6&y=3)|[⬜](https://minesweeperreadme.nikolan.net/move?x=7&y=3)|
-|E|🟦|🟦|1|2|2|[⬜](https://minesweeperreadme.nikolan.net/move?x=5&y=4)|[⬜](https://minesweeperreadme.nikolan.net/move?x=6&y=4)|[⬜](https://minesweeperreadme.nikolan.net/move?x=7&y=4)|
-|F|🟦|🟦|2|[⬜](https://minesweeperreadme.nikolan.net/move?x=3&y=5)|[⬜](https://minesweeperreadme.nikolan.net/move?x=4&y=5)|[⬜](https://minesweeperreadme.nikolan.net/move?x=5&y=5)|[⬜](https://minesweeperreadme.nikolan.net/move?x=6&y=5)|[⬜](https://minesweeperreadme.nikolan.net/move?x=7&y=5)|
-|G|🟦|🟦|2|[⬜](https://minesweeperreadme.nikolan.net/move?x=3&y=6)|[⬜](https://minesweeperreadme.nikolan.net/move?x=4&y=6)|[⬜](https://minesweeperreadme.nikolan.net/move?x=5&y=6)|[⬜](https://minesweeperreadme.nikolan.net/move?x=6&y=6)|[⬜](https://minesweeperreadme.nikolan.net/move?x=7&y=6)|
-|H|🟦|🟦|1|[⬜](https://minesweeperreadme.nikolan.net/move?x=3&y=7)|[⬜](https://minesweeperreadme.nikolan.net/move?x=4&y=7)|[⬜](https://minesweeperreadme.nikolan.net/move?x=5&y=7)|[⬜](https://minesweeperreadme.nikolan.net/move?x=6&y=7)|[⬜](https://minesweeperreadme.nikolan.net/move?x=7&y=7)|
+|A|🟦|1|1|1|2|💣|2|⬛|
+|B|🟦|1|💣|1|2|💣|⬛|⬛|
+|C|🟦|1|1|2|2|⬛|⬛|💣|
+|D|🟦|🟦|🟦|1|💣|⬛|💥|⬛|
+|E|🟦|🟦|1|2|2|⬛|⬛|⬛|
+|F|🟦|🟦|2|💣|⬛|⬛|⬛|⬛|
+|G|🟦|🟦|2|💣|⬛|⬛|⬛|⬛|
+|H|🟦|🟦|1|⬛|⬛|💣|⬛|💣|
 
-<!-- GAME_STATE: eyJleHBsb2RlZCI6bnVsbCwiZ2FtZV9vdmVyIjpmYWxzZSwibWluZV9wb3NpdGlvbnMiOlsiMiwxIiwiMyw1IiwiMyw2IiwiNCwzIiwiNSwwIiwiNSwxIiwiNSw3IiwiNiwzIiwiNywyIiwiNyw3Il0sIm1pbmVzIjoxMCwibW92ZXMiOjksInJldmVhbGVkIjpbIjAsMCIsIjAsMSIsIjAsMiIsIjAsMyIsIjAsNCIsIjAsNSIsIjAsNiIsIjAsNyIsIjEsMCIsIjEsMSIsIjEsMiIsIjEsMyIsIjEsNCIsIjEsNSIsIjEsNiIsIjEsNyIsIjIsMCIsIjIsMiIsIjIsMyIsIjIsNCIsIjIsNSIsIjIsNiIsIjIsNyIsIjMsMCIsIjMsMSIsIjMsMiIsIjMsMyIsIjMsNCIsIjQsMCIsIjQsMSIsIjQsMiIsIjQsNCIsIjYsMCJdLCJzaXplIjo4fQ== -->
+<!-- GAME_STATE: eyJleHBsb2RlZCI6IjYsMyIsImdhbWVfb3ZlciI6dHJ1ZSwibWluZV9wb3NpdGlvbnMiOlsiMiwxIiwiMyw1IiwiMyw2IiwiNCwzIiwiNSwwIiwiNSwxIiwiNSw3IiwiNiwzIiwiNywyIiwiNyw3Il0sIm1pbmVzIjoxMCwibW92ZXMiOjEwLCJyZXZlYWxlZCI6WyIwLDAiLCIwLDEiLCIwLDIiLCIwLDMiLCIwLDQiLCIwLDUiLCIwLDYiLCIwLDciLCIxLDAiLCIxLDEiLCIxLDIiLCIxLDMiLCIxLDQiLCIxLDUiLCIxLDYiLCIxLDciLCIyLDAiLCIyLDIiLCIyLDMiLCIyLDQiLCIyLDUiLCIyLDYiLCIyLDciLCIzLDAiLCIzLDEiLCIzLDIiLCIzLDMiLCIzLDQiLCI0LDAiLCI0LDEiLCI0LDIiLCI0LDQiLCI2LDAiXSwic2l6ZSI6OH0= -->
 [//]: # (GAME END)
