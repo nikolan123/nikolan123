@@ -7,7 +7,7 @@ I am Niko
 
 [//]: # (GAME START)
 - Status: Game in progress.
-- Moves: 2
+- Moves: 3
 - Reset: [New Game](https://minesweeperreadme.nikolan.net/reset)
 
 | | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
@@ -19,7 +19,7 @@ I am Niko
 |E|[⬜](https://minesweeperreadme.nikolan.net/move?x=0&y=4)|[⬜](https://minesweeperreadme.nikolan.net/move?x=1&y=4)|[⬜](https://minesweeperreadme.nikolan.net/move?x=2&y=4)|3|2|1|🟦|🟦|
 |F|[⬜](https://minesweeperreadme.nikolan.net/move?x=0&y=5)|[⬜](https://minesweeperreadme.nikolan.net/move?x=1&y=5)|[⬜](https://minesweeperreadme.nikolan.net/move?x=2&y=5)|2|🟦|🟦|🟦|🟦|
 |G|[⬜](https://minesweeperreadme.nikolan.net/move?x=0&y=6)|[⬜](https://minesweeperreadme.nikolan.net/move?x=1&y=6)|[⬜](https://minesweeperreadme.nikolan.net/move?x=2&y=6)|1|🟦|🟦|🟦|🟦|
-|H|[⬜](https://minesweeperreadme.nikolan.net/move?x=0&y=7)|[⬜](https://minesweeperreadme.nikolan.net/move?x=1&y=7)|[⬜](https://minesweeperreadme.nikolan.net/move?x=2&y=7)|1|🟦|🟦|🟦|🟦|
+|H|2|[⬜](https://minesweeperreadme.nikolan.net/move?x=1&y=7)|[⬜](https://minesweeperreadme.nikolan.net/move?x=2&y=7)|1|🟦|🟦|🟦|🟦|
 
-<!-- GAME_STATE: eyJleHBsb2RlZCI6bnVsbCwiZ2FtZV9vdmVyIjpmYWxzZSwibWluZV9wb3NpdGlvbnMiOlsiMCwwIiwiMCw2IiwiMSwwIiwiMSw0IiwiMSw3IiwiMiw0IiwiMiw2IiwiMywxIiwiMywzIiwiNCwzIl0sIm1pbmVzIjoxMCwibW92ZXMiOjIsInJldmVhbGVkIjpbIjAsMSIsIjMsNCIsIjMsNSIsIjMsNiIsIjMsNyIsIjQsMCIsIjQsMSIsIjQsMiIsIjQsNCIsIjQsNSIsIjQsNiIsIjQsNyIsIjUsMCIsIjUsMSIsIjUsMiIsIjUsMyIsIjUsNCIsIjUsNSIsIjUsNiIsIjUsNyIsIjYsMCIsIjYsMSIsIjYsMiIsIjYsMyIsIjYsNCIsIjYsNSIsIjYsNiIsIjYsNyIsIjcsMCIsIjcsMSIsIjcsMiIsIjcsMyIsIjcsNCIsIjcsNSIsIjcsNiIsIjcsNyJdLCJzaXplIjo4fQ== -->
+<!-- GAME_STATE: eyJleHBsb2RlZCI6bnVsbCwiZ2FtZV9vdmVyIjpmYWxzZSwibWluZV9wb3NpdGlvbnMiOlsiMCwwIiwiMCw2IiwiMSwwIiwiMSw0IiwiMSw3IiwiMiw0IiwiMiw2IiwiMywxIiwiMywzIiwiNCwzIl0sIm1pbmVzIjoxMCwibW92ZXMiOjMsInJldmVhbGVkIjpbIjAsMSIsIjAsNyIsIjMsNCIsIjMsNSIsIjMsNiIsIjMsNyIsIjQsMCIsIjQsMSIsIjQsMiIsIjQsNCIsIjQsNSIsIjQsNiIsIjQsNyIsIjUsMCIsIjUsMSIsIjUsMiIsIjUsMyIsIjUsNCIsIjUsNSIsIjUsNiIsIjUsNyIsIjYsMCIsIjYsMSIsIjYsMiIsIjYsMyIsIjYsNCIsIjYsNSIsIjYsNiIsIjYsNyIsIjcsMCIsIjcsMSIsIjcsMiIsIjcsMyIsIjcsNCIsIjcsNSIsIjcsNiIsIjcsNyJdLCJzaXplIjo4fQ== -->
 [//]: # (GAME END)
