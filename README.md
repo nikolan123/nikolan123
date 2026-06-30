@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I am Niko
+I am Niko.
 
-
-#### You can play minesweeper by clicking the mines below:
+#### You can play minesweeper by clicking the mines below
 
 [//]: # (GAME START)
 - Status: Game in progress.
@@ -23,3 +22,17 @@ I am Niko
 
 <!-- GAME_STATE: eyJleHBsb2RlZCI6bnVsbCwiZ2FtZV9vdmVyIjpmYWxzZSwibWluZV9wb3NpdGlvbnMiOlsiMCwzIiwiMCw3IiwiMSw0IiwiMSw1IiwiMiwxIiwiMiwzIiwiMiw0IiwiMiw1IiwiNywyIiwiNywzIl0sIm1pbmVzIjoxMCwibW92ZXMiOjAsInJldmVhbGVkIjpbXSwic2l6ZSI6OH0= -->
 [//]: # (GAME END)
+
+**↑ :star:** Read the code or set up for yourself at [nikolan123/readme-minesweeper](https://github.com/nikolan123/readme-minesweeper)
+
+#### Blog Posts
+
+| Post | Published |
+|---|---|
+| [Adding a Now Page to my Blog](https://blog.nikolan.net/posts/now-page/) | 2026-06-28 |
+| [Porting 1000+ Legacy Widgets to Modern macOS](https://blog.nikolan.net/posts/dashboard-widgets/)[^1] | 2026-03-06 |
+| [Playing Half-Life on a Takeaway payment terminal](https://blog.nikolan.net/posts/takeaway-terminal/) | 2024-11-02 |
+
+or you can learn more about me at [nikolan.net](https://nikolan.net/)
+
+[^1]: I like this one the most
