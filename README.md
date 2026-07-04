@@ -23,6 +23,8 @@ I am Niko.
 <!-- GAME_STATE: eyJleHBsb2RlZCI6bnVsbCwiZ2FtZV9vdmVyIjpmYWxzZSwibWluZV9wb3NpdGlvbnMiOlsiMCwxIiwiMiwwIiwiMiwxIiwiMywwIiwiMywyIiwiNSwwIiwiNSwzIiwiNiwwIiwiNiw3IiwiNywyIl0sIm1pbmVzIjoxMCwibW92ZXMiOjAsInJldmVhbGVkIjpbXSwic2l6ZSI6OH0= -->
 [//]: # (GAME END)
 
+Game didn't update? Try refreshing this page.
+
 **↑ :star:** Read the code or set up for yourself at [nikolan123/readme-minesweeper](https://github.com/nikolan123/readme-minesweeper)
 
 #### Blog Posts
