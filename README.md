@@ -31,9 +31,9 @@ Game didn't update? Try refreshing this page.
 
 | Post | Published |
 |---|---|
-| [Adding a Now Page to my Blog](https://blog.nikolan.net/posts/now-page/) | 2026-06-28 |
+| [Adding a Now Page to My Blog](https://blog.nikolan.net/posts/now-page/) | 2026-06-28 |
 | [Porting 1000+ Legacy Widgets to Modern macOS](https://blog.nikolan.net/posts/dashboard-widgets/)[^1] | 2026-03-06 |
-| [Playing Half-Life on a Takeaway payment terminal](https://blog.nikolan.net/posts/takeaway-terminal/) | 2024-11-02 |
+| [Playing Half-Life on a Takeaway Payment Terminal](https://blog.nikolan.net/posts/takeaway-terminal/) | 2024-11-02 |
 
 or you can learn more about me at [nikolan.net](https://nikolan.net/)
 
