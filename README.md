@@ -6,7 +6,7 @@ I am Niko.
 
 [//]: # (GAME START)
 - Status: Game in progress.
-- Moves: 5
+- Moves: 6
 - Reset: [New Game](https://minesweeperreadme.nikolan.net/reset)
 
 | | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
@@ -15,12 +15,12 @@ I am Niko.
 |B|1|2|1|1|1|[⬜](https://minesweeperreadme.nikolan.net/move?x=5&y=1)|[⬜](https://minesweeperreadme.nikolan.net/move?x=6&y=1)|[⬜](https://minesweeperreadme.nikolan.net/move?x=7&y=1)|
 |C|[⬜](https://minesweeperreadme.nikolan.net/move?x=0&y=2)|[⬜](https://minesweeperreadme.nikolan.net/move?x=1&y=2)|[⬜](https://minesweeperreadme.nikolan.net/move?x=2&y=2)|[⬜](https://minesweeperreadme.nikolan.net/move?x=3&y=2)|1|1|1|1|
 |D|1|2|2|[⬜](https://minesweeperreadme.nikolan.net/move?x=3&y=3)|1|🟦|🟦|🟦|
-|E|🟦|1|[⬜](https://minesweeperreadme.nikolan.net/move?x=2&y=4)|2|1|🟦|🟦|🟦|
+|E|🟦|1|2|2|1|🟦|🟦|🟦|
 |F|🟦|1|[⬜](https://minesweeperreadme.nikolan.net/move?x=2&y=5)|1|🟦|1|1|1|
 |G|🟦|2|2|2|🟦|2|[⬜](https://minesweeperreadme.nikolan.net/move?x=6&y=6)|[⬜](https://minesweeperreadme.nikolan.net/move?x=7&y=6)|
 |H|🟦|1|[⬜](https://minesweeperreadme.nikolan.net/move?x=2&y=7)|1|🟦|2|[⬜](https://minesweeperreadme.nikolan.net/move?x=6&y=7)|[⬜](https://minesweeperreadme.nikolan.net/move?x=7&y=7)|
 
-<!-- GAME_STATE: eyJleHBsb2RlZCI6bnVsbCwiZ2FtZV9vdmVyIjpmYWxzZSwibWluZV9wb3NpdGlvbnMiOlsiMCwyIiwiMiwyIiwiMiw1IiwiMiw3IiwiMywzIiwiNSwwIiwiNiwwIiwiNiwxIiwiNiw2IiwiNiw3Il0sIm1pbmVzIjoxMCwibW92ZXMiOjUsInJldmVhbGVkIjpbIjAsMCIsIjAsMSIsIjAsMyIsIjAsNCIsIjAsNSIsIjAsNiIsIjAsNyIsIjEsMCIsIjEsMSIsIjEsMyIsIjEsNCIsIjEsNSIsIjEsNiIsIjEsNyIsIjIsMCIsIjIsMSIsIjIsMyIsIjIsNiIsIjMsMCIsIjMsMSIsIjMsNCIsIjMsNSIsIjMsNiIsIjMsNyIsIjQsMCIsIjQsMSIsIjQsMiIsIjQsMyIsIjQsNCIsIjQsNSIsIjQsNiIsIjQsNyIsIjUsMiIsIjUsMyIsIjUsNCIsIjUsNSIsIjUsNiIsIjUsNyIsIjYsMiIsIjYsMyIsIjYsNCIsIjYsNSIsIjcsMiIsIjcsMyIsIjcsNCIsIjcsNSJdLCJzaXplIjo4fQ== -->
+<!-- GAME_STATE: eyJleHBsb2RlZCI6bnVsbCwiZ2FtZV9vdmVyIjpmYWxzZSwibWluZV9wb3NpdGlvbnMiOlsiMCwyIiwiMiwyIiwiMiw1IiwiMiw3IiwiMywzIiwiNSwwIiwiNiwwIiwiNiwxIiwiNiw2IiwiNiw3Il0sIm1pbmVzIjoxMCwibW92ZXMiOjYsInJldmVhbGVkIjpbIjAsMCIsIjAsMSIsIjAsMyIsIjAsNCIsIjAsNSIsIjAsNiIsIjAsNyIsIjEsMCIsIjEsMSIsIjEsMyIsIjEsNCIsIjEsNSIsIjEsNiIsIjEsNyIsIjIsMCIsIjIsMSIsIjIsMyIsIjIsNCIsIjIsNiIsIjMsMCIsIjMsMSIsIjMsNCIsIjMsNSIsIjMsNiIsIjMsNyIsIjQsMCIsIjQsMSIsIjQsMiIsIjQsMyIsIjQsNCIsIjQsNSIsIjQsNiIsIjQsNyIsIjUsMiIsIjUsMyIsIjUsNCIsIjUsNSIsIjUsNiIsIjUsNyIsIjYsMiIsIjYsMyIsIjYsNCIsIjYsNSIsIjcsMiIsIjcsMyIsIjcsNCIsIjcsNSJdLCJzaXplIjo4fQ== -->
 [//]: # (GAME END)
 
 Game didn't update? Try refreshing this page.
