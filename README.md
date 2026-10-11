@@ -5,22 +5,22 @@ I am Niko.
 #### You can play minesweeper by clicking the mines below
 
 [//]: # (GAME START)
-- Status: Game in progress.
-- Moves: 1
+- Status: Mine exploded :(
+- Moves: 2
 - Reset: [New Game](https://minesweeperreadme.nikolan.net/reset)
 
 | | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |---|---|---|---|---|---|---|---|---|
-|A|🟦|1|[⬜](https://minesweeperreadme.nikolan.net/move?x=2&y=0)|[⬜](https://minesweeperreadme.nikolan.net/move?x=3&y=0)|[⬜](https://minesweeperreadme.nikolan.net/move?x=4&y=0)|[⬜](https://minesweeperreadme.nikolan.net/move?x=5&y=0)|1|🟦|
-|B|🟦|1|[⬜](https://minesweeperreadme.nikolan.net/move?x=2&y=1)|[⬜](https://minesweeperreadme.nikolan.net/move?x=3&y=1)|[⬜](https://minesweeperreadme.nikolan.net/move?x=4&y=1)|[⬜](https://minesweeperreadme.nikolan.net/move?x=5&y=1)|1|🟦|
+|A|🟦|1|⬛|⬛|💣|⬛|1|🟦|
+|B|🟦|1|💣|⬛|⬛|💣|1|🟦|
 |C|🟦|1|1|1|1|1|1|🟦|
 |D|🟦|🟦|🟦|🟦|🟦|🟦|🟦|🟦|
 |E|🟦|1|2|3|2|1|🟦|🟦|
-|F|1|2|[⬜](https://minesweeperreadme.nikolan.net/move?x=2&y=5)|[⬜](https://minesweeperreadme.nikolan.net/move?x=3&y=5)|[⬜](https://minesweeperreadme.nikolan.net/move?x=4&y=5)|2|1|1|
-|G|[⬜](https://minesweeperreadme.nikolan.net/move?x=0&y=6)|[⬜](https://minesweeperreadme.nikolan.net/move?x=1&y=6)|[⬜](https://minesweeperreadme.nikolan.net/move?x=2&y=6)|[⬜](https://minesweeperreadme.nikolan.net/move?x=3&y=6)|[⬜](https://minesweeperreadme.nikolan.net/move?x=4&y=6)|[⬜](https://minesweeperreadme.nikolan.net/move?x=5&y=6)|[⬜](https://minesweeperreadme.nikolan.net/move?x=6&y=6)|[⬜](https://minesweeperreadme.nikolan.net/move?x=7&y=6)|
-|H|[⬜](https://minesweeperreadme.nikolan.net/move?x=0&y=7)|[⬜](https://minesweeperreadme.nikolan.net/move?x=1&y=7)|[⬜](https://minesweeperreadme.nikolan.net/move?x=2&y=7)|[⬜](https://minesweeperreadme.nikolan.net/move?x=3&y=7)|[⬜](https://minesweeperreadme.nikolan.net/move?x=4&y=7)|[⬜](https://minesweeperreadme.nikolan.net/move?x=5&y=7)|[⬜](https://minesweeperreadme.nikolan.net/move?x=6&y=7)|[⬜](https://minesweeperreadme.nikolan.net/move?x=7&y=7)|
+|F|1|2|💣|💣|💥|2|1|1|
+|G|⬛|💣|⬛|⬛|⬛|⬛|💣|⬛|
+|H|⬛|⬛|💣|⬛|⬛|⬛|💣|⬛|
 
-<!-- GAME_STATE: eyJleHBsb2RlZCI6bnVsbCwiZ2FtZV9vdmVyIjpmYWxzZSwibWluZV9wb3NpdGlvbnMiOlsiMSw2IiwiMiwxIiwiMiw1IiwiMiw3IiwiMyw1IiwiNCwwIiwiNCw1IiwiNSwxIiwiNiw2IiwiNiw3Il0sIm1pbmVzIjoxMCwibW92ZXMiOjEsInJldmVhbGVkIjpbIjAsMCIsIjAsMSIsIjAsMiIsIjAsMyIsIjAsNCIsIjAsNSIsIjEsMCIsIjEsMSIsIjEsMiIsIjEsMyIsIjEsNCIsIjEsNSIsIjIsMiIsIjIsMyIsIjIsNCIsIjMsMiIsIjMsMyIsIjMsNCIsIjQsMiIsIjQsMyIsIjQsNCIsIjUsMiIsIjUsMyIsIjUsNCIsIjUsNSIsIjYsMCIsIjYsMSIsIjYsMiIsIjYsMyIsIjYsNCIsIjYsNSIsIjcsMCIsIjcsMSIsIjcsMiIsIjcsMyIsIjcsNCIsIjcsNSJdLCJzaXplIjo4fQ== -->
+<!-- GAME_STATE: eyJleHBsb2RlZCI6IjQsNSIsImdhbWVfb3ZlciI6dHJ1ZSwibWluZV9wb3NpdGlvbnMiOlsiMSw2IiwiMiwxIiwiMiw1IiwiMiw3IiwiMyw1IiwiNCwwIiwiNCw1IiwiNSwxIiwiNiw2IiwiNiw3Il0sIm1pbmVzIjoxMCwibW92ZXMiOjIsInJldmVhbGVkIjpbIjAsMCIsIjAsMSIsIjAsMiIsIjAsMyIsIjAsNCIsIjAsNSIsIjEsMCIsIjEsMSIsIjEsMiIsIjEsMyIsIjEsNCIsIjEsNSIsIjIsMiIsIjIsMyIsIjIsNCIsIjMsMiIsIjMsMyIsIjMsNCIsIjQsMiIsIjQsMyIsIjQsNCIsIjUsMiIsIjUsMyIsIjUsNCIsIjUsNSIsIjYsMCIsIjYsMSIsIjYsMiIsIjYsMyIsIjYsNCIsIjYsNSIsIjcsMCIsIjcsMSIsIjcsMiIsIjcsMyIsIjcsNCIsIjcsNSJdLCJzaXplIjo4fQ== -->
 [//]: # (GAME END)
 
 Game didn't update? Try refreshing this page.
